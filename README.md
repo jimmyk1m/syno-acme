@@ -1,6 +1,6 @@
 点击下载:https://github.com/jimmyk1m/syno-acme/releases/
 
-修复无法下载acme.sh，改为使用buypass，一次可以续命180天
+修复无法下载acme.sh，可以使用buypass(要fq)，一次可以续命180天
 
 通过acme协议更新群晖HTTPS泛域名证书的自动脚本
 
