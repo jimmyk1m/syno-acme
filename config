@@ -32,10 +32,9 @@ export AWS_SECRET_ACCESS_KEY="awsKey"
 export LINODE_API_KEY="LinodeKey"
 
 # 选择 ssl 服务商 (buypass要fq, zerossl和lectsencrypt是90天)
-export CERT_SERVER="https://acme.hi.cn/directory"
 # export CERT_SERVER=buypass
 # export CERT_SERVER=zerossl
-# export CERT_SERVER=letsencrypt
+export CERT_SERVER=letsencrypt
 
 # ZeroSSL Buypass 注册邮箱账户(必填,无需提前注册填写即可)
 # export ACCOUNT_EMAIL="myemail@example.com"
