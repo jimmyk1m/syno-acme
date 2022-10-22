@@ -36,5 +36,5 @@ export CERT_SERVER=buypass
 # export CERT_SERVER=zerossl
 # export CERT_SERVER=letsencrypt
 
-# ZeroSSL 注册邮箱账户
+# ZeroSSL Buypass 注册邮箱账户(必填,无需提前注册填写即可)
 # export ACCOUNT_EMAIL="myemail@example.com"
