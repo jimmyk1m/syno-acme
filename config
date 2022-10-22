@@ -31,8 +31,9 @@ export AWS_SECRET_ACCESS_KEY="awsKey"
 # Linode DNS=dns_linode
 export LINODE_API_KEY="LinodeKey"
 
-# 选择 ssl 服务商
-export CERT_SERVER=buypass
+# 选择 ssl 服务商 (buypass要fq, zerossl和lectsencrypt是90天)
+export CERT_SERVER=hica
+# export CERT_SERVER=buypass
 # export CERT_SERVER=zerossl
 # export CERT_SERVER=letsencrypt
 
