@@ -1,4 +1,4 @@
-# 你主域名，如 baidu.com sina.com.cn 等
+# 你的域名, 例:nas.baidu.com (Buypass 不支持泛域名)
 export DOMAIN=your_domain
 
 # DNS类型，根据域名服务商而定"dns_ali,dns_dp,dns_gd,dns_aws,dns_cf" 参考：https://github.com/acmesh-official/acme.sh/wiki/dnsapi
