@@ -32,7 +32,7 @@ export AWS_SECRET_ACCESS_KEY="awsKey"
 export LINODE_API_KEY="LinodeKey"
 
 # 选择 ssl 服务商
-export CERT_SERVER="https://api.buypass.com/acme/directory"
+export CERT_SERVER=buypass
 # export CERT_SERVER=zerossl
 # export CERT_SERVER=letsencrypt
 
